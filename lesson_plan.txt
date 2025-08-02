@@ -1,0 +1,38 @@
++-------------+
+| Lesson plan |
++-------------+
+
++------+
+| Done |
++------+
+
+
++-------+
+| To do |
++-------+
+
+Install
+    Arduino
+        https://www.arduino.cc/en/software/
+    Build Tools for Visual Studio 2022
+        https://visualstudio.microsoft.com/downloads/#remote-tools-for-visual-studio-2022
+        Check "Developer Command Prompt"            
+    VS Code
+        https://code.visualstudio.com/
+    VS Code C/C++ extension
+        https://code.visualstudio.com/docs/cpp/config-msvc
+
+7_string
+8_char
+9_boolean
+
+
+inputs and outputs
+    Digital output
+    Digital input
+        Button on breadboard + pull-up resistor
+        Button on breadboard + pull-up resistor
+
+arrays
+    morse_code
+
