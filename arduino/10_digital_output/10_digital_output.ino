@@ -4,6 +4,8 @@ void setup()
 {
     pinMode(outPin, OUTPUT);
 
+    digitalWrite(outPin, LOW);
+    
     Serial.begin(9600);
     Serial.println();
     Serial.println("Enter 1 or 0");
