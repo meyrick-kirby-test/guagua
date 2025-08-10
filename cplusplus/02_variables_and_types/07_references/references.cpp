@@ -1,7 +1,7 @@
 #include <iostream>
 
 void set_value(int value);
-void set_value_ref(int &r_value);
+void set_value_ref(int& r_value);
 
 int main() {
 
@@ -21,7 +21,7 @@ void set_value(int value) {
     value = 101;
 }
 
-void set_value_ref(int &r_value) {
+void set_value_ref(int& r_value) {
 
     r_value = 101;
 }

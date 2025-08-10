@@ -1,6 +1,6 @@
 #include <iostream>
 
-extern int pi;
+extern double pi;
 
 int main() {
 
