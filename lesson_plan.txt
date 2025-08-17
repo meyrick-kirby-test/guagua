@@ -13,18 +13,17 @@
 
 Install
     Arduino
-        https://www.arduino.cc/en/software/
+        www.arduino.cc/en/software/
     Build Tools for Visual Studio 2022
-        https://visualstudio.microsoft.com/downloads/#remote-tools-for-visual-studio-2022
+        visualstudio.microsoft.com/downloads/
         Check "Developer Command Prompt"            
     VS Code
-        https://code.visualstudio.com/
+        code.visualstudio.com/
     VS Code C/C++ extension
-        https://code.visualstudio.com/docs/cpp/config-msvc
+        code.visualstudio.com/docs/cpp/config-msvc
 
 Arduino:
     7_string onwards
 
 arrays
     morse_code
-

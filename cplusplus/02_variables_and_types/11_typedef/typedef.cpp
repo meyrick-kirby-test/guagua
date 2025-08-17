@@ -1,10 +1,10 @@
 #include <iostream>
 
 typedef int * p_int;
-typedef const int cint;
-typedef const int * p_cint;
+typedef int const cint;
+typedef int const * p_cint;
 typedef int *const cp_int;
-typedef const int *const cp_cint;
+typedef int const *const cp_cint;
 
 void change_pointer(p_cint *const pp_i, cp_cint p_j);
 

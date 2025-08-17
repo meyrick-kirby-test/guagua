@@ -13,8 +13,11 @@ int main() {
     guagua.first_name = "Yuxin";
     guagua.last_name = "Huang";
     guagua.age = 15;
+    // Add year of birth.
 
     std::cout << guagua.first_name << " " << guagua.last_name << ", " << guagua.age << std::endl;
+
+    // Calculate age from year of birth. Use the function get_utc_year()
 
     return 0;
 }

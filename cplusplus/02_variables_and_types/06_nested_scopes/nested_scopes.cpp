@@ -12,6 +12,7 @@ int main() {
         j = i;
     }
 
+    // What is the value of j ?
     std::cout << "j: " << j << std::endl;
 
     return 0;
