@@ -8,9 +8,9 @@ void change_pointer_1();
 int main() {
 
     create_pointer();
-    change_pointer_0();
-    change_pointed_to();
-    change_pointer_1();
+    // change_pointer_0();
+    // change_pointed_to();
+    // change_pointer_1();
 
     return 0;
 }
@@ -63,7 +63,7 @@ void change_pointer_1() {
     int * p_i = &i;
 
     change_pointer(&p_i, &j);
-    
+
     std::cout << "   i: "  <<    i << std::endl;
     std::cout << "*p_i: " << *p_i << std::endl;
 }
