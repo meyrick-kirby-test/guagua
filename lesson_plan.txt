@@ -21,9 +21,5 @@ Install
         code.visualstudio.com/
     VS Code C/C++ extension
         code.visualstudio.com/docs/cpp/config-msvc
-
-Arduino:
-    7_string onwards
-
-arrays
-    morse_code
+    GitHub Desktop
+        desktop.github.com/download/
