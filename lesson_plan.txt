@@ -6,6 +6,22 @@
 | Done |
 +------+
 
+01_type_sizes
+02_unsigned
+03_literals
+04_uninitialized
+05_declaration_and_definition
+06_nested_scopes
+07_references
+08_pointers
+12_auto
+14_struct
+
+09_const_ref
+10_const_pointer
+11_type_def
+13_decltype
+15_pointer_and_array
 
 +-------+
 | To do |
@@ -23,3 +39,4 @@ Install
         code.visualstudio.com/docs/cpp/config-msvc
     GitHub Desktop
         desktop.github.com/download/
+
