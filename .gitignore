@@ -1,5 +1,7 @@
 .vscode/
 
+*.pdf
+
 *.exe
 *.ilk
 *.obj

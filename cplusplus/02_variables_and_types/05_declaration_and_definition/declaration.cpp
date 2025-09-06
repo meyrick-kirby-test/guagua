@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Declare
 extern double pi;
 
 int main() {

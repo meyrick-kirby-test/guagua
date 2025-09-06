@@ -18,6 +18,7 @@ int main() {
     std::cout << guagua.first_name << " " << guagua.last_name << ", " << guagua.age << std::endl;
 
     // Calculate age from year of birth. Use the function get_utc_year()
-
+    std::cout << "This year: " << get_utc_year() << std::endl;
+    
     return 0;
 }

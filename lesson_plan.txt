@@ -2,41 +2,69 @@
 | Lesson plan |
 +-------------+
 
-+------+
-| Done |
-+------+
-
-01_type_sizes
-02_unsigned
-03_literals
-04_uninitialized
-05_declaration_and_definition
-06_nested_scopes
-07_references
-08_pointers
-12_auto
-14_struct
-
-09_const_ref
-10_const_pointer
-11_type_def
-13_decltype
-15_pointer_and_array
-
 +-------+
 | To do |
 +-------+
 
-Install
+Arduino
+    Tinkercad
+        20_interrupt
+        21_interrupt
+        22_timer
+        23_oscilloscope
     Arduino
-        www.arduino.cc/en/software/
-    Build Tools for Visual Studio 2022
-        visualstudio.microsoft.com/downloads/
-        Check "Developer Command Prompt"            
-    VS Code
-        code.visualstudio.com/
-    VS Code C/C++ extension
-        code.visualstudio.com/docs/cpp/config-msvc
-    GitHub Desktop
-        desktop.github.com/download/
+        24_00_speed
+        25_00_speed_original
+        25_01_speed_bytes
+        25_02_speed_const
+        25_03_speed_setup
+        25_04_speed_direct
+        26_00_memory_original + meaasure memory
+        26_01_memory_bytes
+        26_02_memory_const
+        26_03_memory_flash
 
+        27_dynamic_memory
+        28_sprintf
+        29_string_library
+    Tinkercad
+        30_arduino_to_arduino
+    Arduino
+        31_real_time_clock
+        32_rtc_and_led
+
+c++
+    06_nested_scopes
+    07_references
+    08_pointers
+    //09_const_ref
+    //10_const_pointer
+    //11_type_def
+    12_auto
+    //13_decltype
+    14_struct
+    //15_pointer_and_array
+
+
++-------------------+
+| Required software |
++-------------------+
+
+Arduino
+    www.arduino.cc/en/software/
+Build Tools for Visual Studio 2022
+    visualstudio.microsoft.com/downloads/
+    Check "Developer Command Prompt"            
+VS Code
+    code.visualstudio.com/
+VS Code C/C++ extension
+    code.visualstudio.com/docs/cpp/config-msvc
+GitHub Desktop
+    desktop.github.com/download/
+
++-------+
+| Other |
++-------+
+
+C:\Users\<username>\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino\
+C:\Users\<usern>ame\AppData\Local\arduino\sketches\
